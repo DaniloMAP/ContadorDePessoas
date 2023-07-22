@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="contadordepessoas"
-        android:name="${applicationName}"
+        android:name="Contador de Pessoas do Danilo"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
