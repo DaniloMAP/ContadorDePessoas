@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 SizedBox(width: 32),
                 TextButton(
-                  onPressed: isEmpty ? null : increment,
+                  onPressed: isFull ? null : increment,
                   style: TextButton.styleFrom(
                     backgroundColor:
                         isFull ? Colors.white.withOpacity(0.2) : Colors.white,
