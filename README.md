@@ -2,10 +2,6 @@
 
 Este é um aplicativo simples de contador de pessoas desenvolvido usando o framework Flutter. O aplicativo permite que você controle o número de pessoas em um determinado local, aumentando ou diminuindo a contagem com os botões "Entrou" e "Saiu". O aplicativo exibe o número atual de pessoas e informa se o local está "Pode entrar" ou "LOTADO!" com base na capacidade máxima de 20 pessoas.
 
-## Capturas de tela
-
-![Tela Inicial](screenshots/screenshot_1.png)
-
 ## Funcionalidades
 
 - Contagem de pessoas: O aplicativo permite que você aumente ou diminua o número de pessoas no local usando os botões "Entrou" e "Saiu".
